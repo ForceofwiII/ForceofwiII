@@ -11,4 +11,4 @@
 
   <img align="right" alt="GIF" src="4bab2a2c58e1250e2d921f40910fc23f.webp" width="430" height="100%" />
 
-   <img align="left" alt="GIF" src="b9557766142fcb184e21381e0d8b968d.webp" width="430" height="100%" />
+   <img align="left" alt="GIF" src="b9557766142fcb184e21381e0d8b968d.webp" width="400" height="100%" />
