@@ -13,4 +13,4 @@
 
    <img align="left" alt="GIF" src="b9557766142fcb184e21381e0d8b968d.webp" width="400" height="100%" />
 
-![Travis](https://steam-stat.vercel.app/api?profileName=ananto)
+![Travis](https://steam-stat.vercel.app/api?profileName=76561198984903760)
