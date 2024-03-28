@@ -16,7 +16,3 @@
 
    
 
-![Travis](https://steam-stat.vercel.app/api?profileName=76561198984903760)
-
-
-<img src="https://steam-stat.vercel.app/api?profileName=76561198985903760"/>
