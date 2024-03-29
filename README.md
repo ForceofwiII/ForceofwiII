@@ -47,6 +47,6 @@
 </div>
 
 
-<img align="left" alt="GIF" src="8d6f3fd4877a7237b93c33e9fd3f6613.webp" width="800" height="100%" />
+<img align="left" alt="GIF" src="8d6f3fd4877a7237b93c33e9fd3f6613.webp" width="820" height="100%" />
 
 
