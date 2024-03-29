@@ -12,10 +12,10 @@
 
 <div style="overflow: hidden;">
   <div style="float: left; width: 50%;">
-    <img align="left" alt="GIF" src="b9557766142fcb184e21381e0d8b968d.webp"  height="100%" />
+    <img align="left" alt="GIF" src="b9557766142fcb184e21381e0d8b968d.webp" width="50%" height="100%" />
   </div>
   <div style="float: left; width: 50%;">
-    <img align="left" alt="GIF" src="9f2966391e4bd65d33da99758c8d122a.webp"  height="100%" />
+    <img align="left" alt="GIF" src="9f2966391e4bd65d33da99758c8d122a.webp" width="50%" height="100%" />
   </div>
 </div>
 
