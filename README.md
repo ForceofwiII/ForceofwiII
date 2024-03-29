@@ -7,7 +7,7 @@
  <img align="right" alt="GIF" src="code.gif" width="430" height="100%" />
 
 
-
+<img align="left" alt="GIF" src="8d6f3fd4877a7237b93c33e9fd3f6613.webp" width="820" height="100%" />
  
 
 <div style="overflow: hidden;">
@@ -47,6 +47,6 @@
 </div>
 
 
-<img align="left" alt="GIF" src="8d6f3fd4877a7237b93c33e9fd3f6613.webp" width="820" height="100%" />
+
 
 
