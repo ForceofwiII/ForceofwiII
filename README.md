@@ -8,16 +8,7 @@
 
 
 
-   
-
-<div style="overflow: hidden;">
-  <div style="float: left; width: 50%;">
-    <img align="right" alt="GIF" src="83ebf02b4d7e909c4554247277802265.webp" width="430" height="100%" />
-  </div>
-  <div style="float: left; width: 50%;">
-    <img align="right" alt="GIF" src="4bab2a2c58e1250e2d921f40910fc23f.webp" width="430" height="100%" />
-  </div>
-</div>
+ 
 
 <div style="overflow: hidden;">
   <div style="float: left; width: 50%;">
